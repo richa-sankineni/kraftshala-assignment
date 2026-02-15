@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "kraftshala",
+    "password": "kraftshala_pass",
+    "database": "meetings_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": 5432
+  },
+  "test": {
+    "username": "kraftshala",
+    "password": "kraftshala_pass",
+    "database": "meetings_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": 5432
+  },
+  "production": {
+    "username": "kraftshala",
+    "password": "kraftshala_pass",
+    "database": "meetings_prod",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": 5432
+  }
+}
+
